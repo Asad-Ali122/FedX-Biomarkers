@@ -1,0 +1,16 @@
+name: fedx
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - jupyter
+  - pytorch>=1.13
+  - pip
+  - pip:
+      - xlrd>=2.0

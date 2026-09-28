@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "FedX-Biomarker: Trustworthy Federated Discovery of Digital Gait Biomarkers for Parkinson's Disease"
+authors:
+  - given-names: Asad
+    affiliation: "College of Electronics and Information Engineering, Shenzhen University"
+  - family-names: Huang
+    given-names: Jianjun
+    affiliation: "College of Electronics and Information Engineering, Shenzhen University"
+  - family-names: Ali
+    given-names: Mubashir
+license: MIT
+version: 1.0.0
+date-released: 2026-09-28
+keywords: [federated learning, trustworthy AI, Parkinson's disease, gait, digital biomarkers, interpretability, fairness, calibration]
