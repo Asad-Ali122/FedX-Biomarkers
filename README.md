@@ -114,17 +114,6 @@ The pipeline writes 14 tables (`T0`–`T14`, as CSV and LaTeX) and 14 figures, i
 
 Raw gait signals never leave a client. Each round a client shares its model weights and a 36-float aggregate attribution profile (144 bytes). At the end it shares a 93-point likelihood curve. Experiments simulate the federation on one machine. For deployment, combine the pipeline with secure aggregation or differential privacy.
 
-## 📚 Citation
-
-```bibtex
-@inproceedings{fedxbiomarker2026,
-  title     = {{FedX-Biomarker}: Trustworthy Federated Discovery of Digital Gait Biomarkers for {P}arkinson's Disease},
-  author    = {Asad and Huang, Jianjun and Ali, Mubashir},
-  booktitle = {Proc. IEEE Int. Conf. Bioinformatics and Biomedicine (BIBM) Workshops},
-  year      = {2026}
-}
-```
-
 When you use the data, please also cite the PhysioNet dataset (Hausdorff, *Gait in Parkinson's Disease*, v1.0.0) and the PhysioNet platform (Pollard et al., *Nature Health*, 2026).
 
 ## 📄 License
