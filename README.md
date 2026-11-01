@@ -32,7 +32,6 @@ $$
 \mathcal{L}_k=\mathcal{L}_{\text{BCE}}+\lambda_s\mathcal{L}_{\text{sev}}+\lambda_c\big[1-\rho(\bar{\alpha}_k,A_g)\big]+\lambda_f\,\mathrm{SD}_{g}\big(\mathcal{L}^{(g)}\big)
 $$
 
-<p align="center"><img src="docs/fig1_framework.png" width="92%" alt="FedX-Biomarker framework (add docs/fig1_framework.png)"></p>
 
 ## 📊 Headline results
 
